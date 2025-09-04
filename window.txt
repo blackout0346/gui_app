@@ -1,2 +1,4 @@
 border 2px color black
+background white
 window
+
